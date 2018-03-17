@@ -1,5 +1,6 @@
-## 商店
+## **千寻电玩**
 
-喜欢游戏必定要把游戏拥入怀中
+- 喜欢游戏必定要把它拥入怀中，淘宝搜索店铺"**[66662797](https://shopsearch.taobao.com/search?app=shopsearch&q=66662797)**"
 
-[淘宝店铺](https://shop119341111.taobao.com/) 或 淘宝搜索"66662797"
+[![淘宝店铺](/images/shop_taobao.jpg)](https://shop119341111.taobao.com/)
+

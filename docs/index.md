@@ -16,5 +16,8 @@
 ## 四、[相册](album/index.md)
 游戏精美图片
 
-## 五、[关于](about.md)
+## 五、[旅游](tour/index.md)
+放松心情环游世界
+
+## 六、[关于](about.md)
 博客相关简介
