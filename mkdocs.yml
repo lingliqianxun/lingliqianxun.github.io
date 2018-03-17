@@ -1,0 +1,13 @@
+site_name: 绫里千寻的博客 
+
+pages:
+- 目录: 'index.md'
+- 直播:
+    - 目录: 'live/index.md'
+- 视频: 
+    - 目录: 'video/index.md'
+- 商店:
+    - 目录: 'shop/index.md'
+- 相册:
+    - 目录: 'album/index.md'
+- 关于: 'about.md'
