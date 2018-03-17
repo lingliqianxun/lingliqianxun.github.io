@@ -10,33 +10,27 @@
     
 
     
-        
     <url>
      <loc>/live/</loc>
      <lastmod>2018-03-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     
 
     
-        
     <url>
      <loc>/video/</loc>
      <lastmod>2018-03-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     
 
     
-        
     <url>
      <loc>/shop/</loc>
      <lastmod>2018-03-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     
 
     
@@ -47,6 +41,14 @@
      <changefreq>daily</changefreq>
     </url>
         
+    
+
+    
+    <url>
+     <loc>/tour/</loc>
+     <lastmod>2018-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     
 
     

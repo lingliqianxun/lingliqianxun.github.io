@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "\u6b22\u8fce\u6765\u5230\u7eeb\u91cc\u5343\u5bfb\u535a\u5ba2\n\n\n\u6b64\u535a\u5ba2\u501f\u52a9\u4e8e github \u4e0e mkdown \u64b0\u5199,\u65b9\u4fbf\u7ba1\u7406.\n\n\n\u4e3b\u8981\u7684\u529f\u80fd\u6a21\u5757\u6709\u4ee5\u4e0b\u51e0\u90e8\u5206\n\n\n\u4e00\u3001\n\u76f4\u64ad\n\n\n\u5b9e\u65f6\u6e38\u620f\u76f4\u64ad\n\n\n\u4e8c\u3001\n\u89c6\u9891\n\n\n\u76f4\u64ad\u6e38\u620f\u4fdd\u5b58\u7684\u89c6\u9891\n\n\n\u4e09\u3001\n\u5e97\u94fa\n\n\n\u8d2d\u4e70\u6e38\u620f\n\n\n\u56db\u3001\n\u76f8\u518c\n\n\n\u6e38\u620f\u7cbe\u7f8e\u56fe\u7247\n\n\n\u4e94\u3001\n\u5173\u4e8e\n\n\n\u535a\u5ba2\u76f8\u5173\u7b80\u4ecb",
+            "text": "\u6b22\u8fce\u6765\u5230\u7eeb\u91cc\u5343\u5bfb\u535a\u5ba2\n\n\n\u6b64\u535a\u5ba2\u501f\u52a9\u4e8e github \u4e0e mkdown \u64b0\u5199,\u65b9\u4fbf\u7ba1\u7406.\n\n\n\u4e3b\u8981\u7684\u529f\u80fd\u6a21\u5757\u6709\u4ee5\u4e0b\u51e0\u90e8\u5206\n\n\n\u4e00\u3001\n\u76f4\u64ad\n\n\n\u5b9e\u65f6\u6e38\u620f\u76f4\u64ad\n\n\n\u4e8c\u3001\n\u89c6\u9891\n\n\n\u76f4\u64ad\u6e38\u620f\u4fdd\u5b58\u7684\u89c6\u9891\n\n\n\u4e09\u3001\n\u5e97\u94fa\n\n\n\u8d2d\u4e70\u6e38\u620f\n\n\n\u56db\u3001\n\u76f8\u518c\n\n\n\u6e38\u620f\u7cbe\u7f8e\u56fe\u7247\n\n\n\u4e94\u3001\n\u65c5\u6e38\n\n\n\u653e\u677e\u5fc3\u60c5\u73af\u6e38\u4e16\u754c\n\n\n\u516d\u3001\n\u5173\u4e8e\n\n\n\u535a\u5ba2\u76f8\u5173\u7b80\u4ecb",
             "title": "\u76ee\u5f55"
         },
         {
@@ -32,38 +32,43 @@
         },
         {
             "location": "/#_6",
+            "text": "\u653e\u677e\u5fc3\u60c5\u73af\u6e38\u4e16\u754c",
+            "title": "\u4e94\u3001\u65c5\u6e38"
+        },
+        {
+            "location": "/#_7",
             "text": "\u535a\u5ba2\u76f8\u5173\u7b80\u4ecb",
-            "title": "\u4e94\u3001\u5173\u4e8e"
+            "title": "\u516d\u3001\u5173\u4e8e"
         },
         {
             "location": "/live/",
-            "text": "\u76f4\u64ad\n\n\n\u6e38\u620f\u5b9e\u65f6\u5b9e\u51b5\u76f4\u64ad\n\n\n\u864e\u7259\u76f4\u64ad",
-            "title": "\u76ee\u5f55"
-        },
-        {
-            "location": "/live/#_1",
-            "text": "\u6e38\u620f\u5b9e\u65f6\u5b9e\u51b5\u76f4\u64ad  \u864e\u7259\u76f4\u64ad",
+            "text": "\u5343\u5bfb\u76f4\u64ad\n\n\n\n\n\u6e38\u620f\u5b9e\u65f6\u5b9e\u51b5\u76f4\u64ad",
             "title": "\u76f4\u64ad"
         },
         {
-            "location": "/video/",
-            "text": "\u89c6\u9891\n\n\n\u770b\u4e0d\u5230\u76f4\u64ad\u4e0d\u8981\u7d27\uff0c\u76f4\u64ad\u4fdd\u5b58\u7684\u5185\u5bb9\u4ee5\u53ca\u66f4\u591a\u76f4\u64ad\u65e0\u6cd5\u770b\u5230\u7684\u89c6\u9891\u90fd\u5728\u8fd9\n\n\n\u4f18\u9177\u4e3b\u9875\n\n\nBiliBili\u4e3b\u9875",
-            "title": "\u76ee\u5f55"
+            "location": "/live/#_1",
+            "text": "\u6e38\u620f\u5b9e\u65f6\u5b9e\u51b5\u76f4\u64ad",
+            "title": "\u5343\u5bfb\u76f4\u64ad"
         },
         {
-            "location": "/video/#_1",
-            "text": "\u770b\u4e0d\u5230\u76f4\u64ad\u4e0d\u8981\u7d27\uff0c\u76f4\u64ad\u4fdd\u5b58\u7684\u5185\u5bb9\u4ee5\u53ca\u66f4\u591a\u76f4\u64ad\u65e0\u6cd5\u770b\u5230\u7684\u89c6\u9891\u90fd\u5728\u8fd9  \u4f18\u9177\u4e3b\u9875  BiliBili\u4e3b\u9875",
+            "location": "/video/",
+            "text": "\u5343\u5bfb\u89c6\u9891\n\n\n\n\n\u770b\u4e0d\u5230\u76f4\u64ad\u4e0d\u8981\u7d27\uff0c\u76f4\u64ad\u4fdd\u5b58\u7684\u5185\u5bb9\u4ee5\u53ca\u66f4\u591a\u76f4\u64ad\u65e0\u6cd5\u770b\u5230\u7684\u89c6\u9891\u90fd\u5728\u8fd9",
             "title": "\u89c6\u9891"
         },
         {
+            "location": "/video/#_1",
+            "text": "\u770b\u4e0d\u5230\u76f4\u64ad\u4e0d\u8981\u7d27\uff0c\u76f4\u64ad\u4fdd\u5b58\u7684\u5185\u5bb9\u4ee5\u53ca\u66f4\u591a\u76f4\u64ad\u65e0\u6cd5\u770b\u5230\u7684\u89c6\u9891\u90fd\u5728\u8fd9",
+            "title": "\u5343\u5bfb\u89c6\u9891"
+        },
+        {
             "location": "/shop/",
-            "text": "\u5546\u5e97\n\n\n\u559c\u6b22\u6e38\u620f\u5fc5\u5b9a\u8981\u628a\u6e38\u620f\u62e5\u5165\u6000\u4e2d\n\n\n\u6dd8\u5b9d\u5e97\u94fa\n \u6216 \u6dd8\u5b9d\u641c\u7d22\"66662797\"",
-            "title": "\u76ee\u5f55"
+            "text": "\u5343\u5bfb\u7535\u73a9\n\n\n\n\n\u559c\u6b22\u6e38\u620f\u5fc5\u5b9a\u8981\u628a\u5b83\u62e5\u5165\u6000\u4e2d\uff0c\u6dd8\u5b9d\u641c\u7d22\u5e97\u94fa\"\n66662797\n\"",
+            "title": "\u5e97\u94fa"
         },
         {
             "location": "/shop/#_1",
-            "text": "\u559c\u6b22\u6e38\u620f\u5fc5\u5b9a\u8981\u628a\u6e38\u620f\u62e5\u5165\u6000\u4e2d  \u6dd8\u5b9d\u5e97\u94fa  \u6216 \u6dd8\u5b9d\u641c\u7d22\"66662797\"",
-            "title": "\u5546\u5e97"
+            "text": "\u559c\u6b22\u6e38\u620f\u5fc5\u5b9a\u8981\u628a\u5b83\u62e5\u5165\u6000\u4e2d\uff0c\u6dd8\u5b9d\u641c\u7d22\u5e97\u94fa\" 66662797 \"",
+            "title": "\u5343\u5bfb\u7535\u73a9"
         },
         {
             "location": "/album/",
@@ -76,8 +81,33 @@
             "title": "\u76f8\u518c"
         },
         {
+            "location": "/tour/",
+            "text": "\u65c5\u6e38\u8f68\u8ff9\n\n\n\n\n\u6e38\u89c8\u7956\u56fd\u5927\u597d\u6cb3\u5c71 \n\n\n\n\n2017-05-04\n\n\n\n\n\u5f69\u4e91\u4e4b\u5357\uff0c\u5f52\u53bb\u7684\u65b9\u5411\n\n\n\n\n\n\n2015-09-28\n\n\n\n\n\u5f20\u5bb6\u754c\u4e4b\u5947\u89c2\n\n\n\n\n\n\n20xx-xx-xx\n\n\n\n\n\u4e5d\u6c5f\u5e90\u5c71\u7011\u5e03",
+            "title": "\u65c5\u6e38"
+        },
+        {
+            "location": "/tour/#_1",
+            "text": "\u6e38\u89c8\u7956\u56fd\u5927\u597d\u6cb3\u5c71",
+            "title": "\u65c5\u6e38\u8f68\u8ff9"
+        },
+        {
+            "location": "/tour/#2017-05-04",
+            "text": "\u5f69\u4e91\u4e4b\u5357\uff0c\u5f52\u53bb\u7684\u65b9\u5411",
+            "title": "2017-05-04"
+        },
+        {
+            "location": "/tour/#2015-09-28",
+            "text": "\u5f20\u5bb6\u754c\u4e4b\u5947\u89c2",
+            "title": "2015-09-28"
+        },
+        {
+            "location": "/tour/#20xx-xx-xx",
+            "text": "\u4e5d\u6c5f\u5e90\u5c71\u7011\u5e03",
+            "title": "20xx-xx-xx"
+        },
+        {
             "location": "/about/",
-            "text": "\u5173\u4e8e\u672c\u535a\u5ba2\n\n\n\u4e8e2015\u5e7409\u670815\u65e5\u521b\u5efa",
+            "text": "\u5173\u4e8e\u672c\u535a\u5ba2\n\n\n\n\n\u4e8e2015\u5e7409\u670815\u65e5\u521b\u5efa",
             "title": "\u5173\u4e8e"
         },
         {
