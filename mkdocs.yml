@@ -1,7 +1,8 @@
-site_name: 绫里千寻的博客 
+site_name: 绫里千寻
 
 pages:
 - 目录: 'index.md'
+- 技术: 'technology/index.md'
 - 直播: 'live/index.md'
 - 视频: 'video/index.md'
 - 店铺: 'shop/index.md'
