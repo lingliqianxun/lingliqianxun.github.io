@@ -4,7 +4,15 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-03-17</lastmod>
+     <lastmod>2018-04-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/technology/</loc>
+     <lastmod>2018-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +20,7 @@
     
     <url>
      <loc>/live/</loc>
-     <lastmod>2018-03-17</lastmod>
+     <lastmod>2018-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +28,7 @@
     
     <url>
      <loc>/video/</loc>
-     <lastmod>2018-03-17</lastmod>
+     <lastmod>2018-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +36,7 @@
     
     <url>
      <loc>/shop/</loc>
-     <lastmod>2018-03-17</lastmod>
+     <lastmod>2018-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -37,7 +45,7 @@
         
     <url>
      <loc>/album/</loc>
-     <lastmod>2018-03-17</lastmod>
+     <lastmod>2018-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -46,7 +54,7 @@
     
     <url>
      <loc>/tour/</loc>
-     <lastmod>2018-03-17</lastmod>
+     <lastmod>2018-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -54,7 +62,7 @@
     
     <url>
      <loc>/about/</loc>
-     <lastmod>2018-03-17</lastmod>
+     <lastmod>2018-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
